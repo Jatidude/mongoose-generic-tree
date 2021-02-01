@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-generic-tree",
+  "version": "0.0.1",
+  "description": "Mongoose plugin for creating any of the mongodb tree patterns with a unified api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatidude/mongoose-generic-tree.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "tree"
+  ],
+  "author": "Jacob Timme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jatidude/mongoose-generic-tree/issues"
+  },
+  "homepage": "https://github.com/Jatidude/mongoose-generic-tree#readme",
+  "dependencies": {
+    "mongoose": "^5.11.14"
+  }
+}
